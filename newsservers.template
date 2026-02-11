@@ -1,0 +1,23 @@
+[[XXX]]
+name = XXX
+displayname = XXX
+host = XXX
+port = 563
+timeout = 60
+username = ""
+password = ""
+connections = 39
+ssl = 1
+ssl_verify = 3
+ssl_ciphers = ""
+enable = 1
+required = 0
+optional = 0
+pipelining_requests = 1
+retention = 0
+expire_date = ""
+quota = ""
+usage_at_start = 0
+priority = 0
+notes = ""
+
