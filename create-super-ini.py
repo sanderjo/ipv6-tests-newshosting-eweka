@@ -1,4 +1,8 @@
+import os
 supergoal = "super.ini"
+templatedir = "templates"
+
+
 
 # read in "pre.template"
 
@@ -18,14 +22,14 @@ newsservers = [
 ]
 
 
-with open("pre.template", 'r') as file:
+with open(os.path.join(templatedir, "pre.template"), 'r') as file:
     pre = file.read()
 
-with open("post.template", 'r') as file:
+with open(os.path.join(templatedir, "post.template"), 'r') as file:
     post = file.read()
 
 all_servers = ""
-with open("newsservers.template", 'r') as file:
+with open(os.path.join(templatedir, "newsservers.template"), 'r') as file:
     onenewsserver = file.read()
     for server in newsservers:
         print(server)
@@ -36,3 +40,5 @@ fulloutput = pre + all_servers + post
 
 with open(supergoal, 'w') as file:
     file.write(fulloutput)
+    
+print(f"Successfully created {supergoal}")
