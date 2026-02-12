@@ -27,14 +27,14 @@ In short:
 ```
 ./create-super-ini.py # creates super.ini
 sabnzbdplus -f super.ini # in the SAB GUI: let it try to download the 100MB test file, and stop SABnzbd after a minute
-./parse-results.py  | rev | sort -k1,1n | rev
+./parse-results.py
 ```
 
 
 # example results
 
 ```
-sander@x360:~/git/ipv6-tests-newshosting-eweka$ ./parse-results.py  | rev | sort -k1,1n | rev
+sander@x360:~/git/ipv6-tests-newshosting-eweka$ ./parse-results.py
 reader6.newsxs.nl: 2001:67c:174:101:0:65:ff02:122 good: 0, bad: 0
 eunews-v6.blocknews.net: 2607:bc40:2:119::1:1 good: 40, bad: 0
 news-v6.frugalusenet.com: 2607:bc40:0:119::2:3 good: 40, bad: 0
