@@ -24466,3 +24466,461 @@
 2026-02-13 19:37:13,429::INFO::[downloader:955] Thread 19@news6.dwld.link: Timed out
 2026-02-13 19:37:17,375::INFO::[downloader:955] Thread 5@news6.dwld.link: Timed out
 2026-02-13 19:37:17,378::DEBUG::[bpsmeter:354] Speed: 814B/s
+2026-02-13 19:38:11,753::INFO::[notifier:165] Sending notification: Warning - Signal 15 caught, saving and exiting... (type=warning, job_cat=None)
+2026-02-13 19:38:11,753::WARNING::[__init__:203] Signal 15 caught, saving and exiting...
+2026-02-13 19:38:11,754::INFO::[__init__:432] [sabnzbd.sig_handler] Performing SABnzbd shutdown
+2026-02-13 19:38:11,754::INFO::[__init__:342] SABnzbd shutting down...
+2026-02-13 19:38:11,755::INFO::[directunpacker:550] Aborting all DirectUnpackers
+2026-02-13 19:38:11,755::DEBUG::[__init__:360] Stopping RSSReader
+2026-02-13 19:38:11,755::DEBUG::[__init__:363] Stopping URLGrabber
+2026-02-13 19:38:11,756::DEBUG::[__init__:370] Stopping dirscanner
+2026-02-13 19:38:11,758::DEBUG::[__init__:377] Stopping downloader
+2026-02-13 19:38:11,758::INFO::[notifier:165] Sending notification: SABnzbd - Shutting down (type=startup, job_cat=None)
+2026-02-13 19:38:11,769::DEBUG::[downloader:957] Thread 40@eu6.astraweb.com: Forcing disconnect
+2026-02-13 19:38:11,781::DEBUG::[downloader:957] Thread 1@eu6.astraweb.com: Forcing disconnect
+2026-02-13 19:38:11,792::DEBUG::[downloader:957] Thread 11@eu6.astraweb.com: Forcing disconnect
+2026-02-13 19:38:11,802::DEBUG::[downloader:957] Thread 21@eu6.astraweb.com: Forcing disconnect
+2026-02-13 19:38:11,813::DEBUG::[downloader:957] Thread 31@eu6.astraweb.com: Forcing disconnect
+2026-02-13 19:38:11,824::DEBUG::[downloader:957] Thread 2@eu6.astraweb.com: Forcing disconnect
+2026-02-13 19:38:11,835::DEBUG::[downloader:957] Thread 12@eu6.astraweb.com: Forcing disconnect
+2026-02-13 19:38:11,846::DEBUG::[downloader:957] Thread 22@eu6.astraweb.com: Forcing disconnect
+2026-02-13 19:38:11,857::DEBUG::[downloader:957] Thread 32@eu6.astraweb.com: Forcing disconnect
+2026-02-13 19:38:11,868::DEBUG::[downloader:957] Thread 3@eu6.astraweb.com: Forcing disconnect
+2026-02-13 19:38:11,879::DEBUG::[downloader:957] Thread 13@eu6.astraweb.com: Forcing disconnect
+2026-02-13 19:38:11,890::DEBUG::[downloader:957] Thread 23@eu6.astraweb.com: Forcing disconnect
+2026-02-13 19:38:11,901::DEBUG::[downloader:957] Thread 14@eu6.astraweb.com: Forcing disconnect
+2026-02-13 19:38:11,912::DEBUG::[downloader:957] Thread 5@eu6.astraweb.com: Forcing disconnect
+2026-02-13 19:38:11,923::DEBUG::[downloader:957] Thread 15@eu6.astraweb.com: Forcing disconnect
+2026-02-13 19:38:11,934::DEBUG::[downloader:957] Thread 25@eu6.astraweb.com: Forcing disconnect
+2026-02-13 19:38:11,944::DEBUG::[downloader:957] Thread 35@eu6.astraweb.com: Forcing disconnect
+2026-02-13 19:38:11,955::DEBUG::[downloader:957] Thread 6@eu6.astraweb.com: Forcing disconnect
+2026-02-13 19:38:11,966::DEBUG::[downloader:957] Thread 16@eu6.astraweb.com: Forcing disconnect
+2026-02-13 19:38:11,977::DEBUG::[downloader:957] Thread 26@eu6.astraweb.com: Forcing disconnect
+2026-02-13 19:38:11,989::DEBUG::[downloader:957] Thread 7@eu6.astraweb.com: Forcing disconnect
+2026-02-13 19:38:12,000::DEBUG::[downloader:957] Thread 17@eu6.astraweb.com: Forcing disconnect
+2026-02-13 19:38:12,011::DEBUG::[downloader:957] Thread 27@eu6.astraweb.com: Forcing disconnect
+2026-02-13 19:38:12,022::DEBUG::[downloader:957] Thread 37@eu6.astraweb.com: Forcing disconnect
+2026-02-13 19:38:12,033::DEBUG::[downloader:957] Thread 8@eu6.astraweb.com: Forcing disconnect
+2026-02-13 19:38:12,043::DEBUG::[downloader:957] Thread 18@eu6.astraweb.com: Forcing disconnect
+2026-02-13 19:38:12,054::DEBUG::[downloader:957] Thread 28@eu6.astraweb.com: Forcing disconnect
+2026-02-13 19:38:12,065::DEBUG::[downloader:957] Thread 38@eu6.astraweb.com: Forcing disconnect
+2026-02-13 19:38:12,076::DEBUG::[downloader:957] Thread 9@eu6.astraweb.com: Forcing disconnect
+2026-02-13 19:38:12,087::DEBUG::[downloader:957] Thread 19@eu6.astraweb.com: Forcing disconnect
+2026-02-13 19:38:12,098::DEBUG::[downloader:957] Thread 29@eu6.astraweb.com: Forcing disconnect
+2026-02-13 19:38:12,109::DEBUG::[downloader:957] Thread 39@eu6.astraweb.com: Forcing disconnect
+2026-02-13 19:38:12,120::DEBUG::[downloader:957] Thread 10@eu6.astraweb.com: Forcing disconnect
+2026-02-13 19:38:12,131::DEBUG::[downloader:957] Thread 20@eu6.astraweb.com: Forcing disconnect
+2026-02-13 19:38:12,142::DEBUG::[downloader:957] Thread 30@eu6.astraweb.com: Forcing disconnect
+2026-02-13 19:38:12,153::DEBUG::[downloader:206] Resetting article queue for <Server: id=eu6.astraweb.com, host=eu6.astraweb.com:563> (deque([]))
+2026-02-13 19:38:12,153::DEBUG::[downloader:957] Thread 30@eunews-v6.blocknews.net: Forcing disconnect
+2026-02-13 19:38:12,154::DEBUG::[downloader:957] Thread 40@eunews-v6.blocknews.net: Forcing disconnect
+2026-02-13 19:38:12,155::DEBUG::[downloader:957] Thread 1@eunews-v6.blocknews.net: Forcing disconnect
+2026-02-13 19:38:12,155::DEBUG::[downloader:957] Thread 11@eunews-v6.blocknews.net: Forcing disconnect
+2026-02-13 19:38:12,156::DEBUG::[downloader:957] Thread 21@eunews-v6.blocknews.net: Forcing disconnect
+2026-02-13 19:38:12,157::DEBUG::[downloader:957] Thread 31@eunews-v6.blocknews.net: Forcing disconnect
+2026-02-13 19:38:12,157::DEBUG::[downloader:957] Thread 2@eunews-v6.blocknews.net: Forcing disconnect
+2026-02-13 19:38:12,158::DEBUG::[downloader:957] Thread 12@eunews-v6.blocknews.net: Forcing disconnect
+2026-02-13 19:38:12,159::DEBUG::[downloader:957] Thread 22@eunews-v6.blocknews.net: Forcing disconnect
+2026-02-13 19:38:12,159::DEBUG::[downloader:957] Thread 32@eunews-v6.blocknews.net: Forcing disconnect
+2026-02-13 19:38:12,160::DEBUG::[downloader:957] Thread 3@eunews-v6.blocknews.net: Forcing disconnect
+2026-02-13 19:38:12,160::DEBUG::[downloader:957] Thread 13@eunews-v6.blocknews.net: Forcing disconnect
+2026-02-13 19:38:12,161::DEBUG::[downloader:957] Thread 23@eunews-v6.blocknews.net: Forcing disconnect
+2026-02-13 19:38:12,162::DEBUG::[downloader:957] Thread 33@eunews-v6.blocknews.net: Forcing disconnect
+2026-02-13 19:38:12,162::DEBUG::[downloader:957] Thread 4@eunews-v6.blocknews.net: Forcing disconnect
+2026-02-13 19:38:12,163::DEBUG::[downloader:957] Thread 14@eunews-v6.blocknews.net: Forcing disconnect
+2026-02-13 19:38:12,164::DEBUG::[downloader:957] Thread 24@eunews-v6.blocknews.net: Forcing disconnect
+2026-02-13 19:38:12,164::DEBUG::[downloader:957] Thread 34@eunews-v6.blocknews.net: Forcing disconnect
+2026-02-13 19:38:12,165::DEBUG::[downloader:957] Thread 5@eunews-v6.blocknews.net: Forcing disconnect
+2026-02-13 19:38:12,165::DEBUG::[downloader:957] Thread 15@eunews-v6.blocknews.net: Forcing disconnect
+2026-02-13 19:38:12,166::DEBUG::[downloader:957] Thread 25@eunews-v6.blocknews.net: Forcing disconnect
+2026-02-13 19:38:12,166::DEBUG::[downloader:957] Thread 35@eunews-v6.blocknews.net: Forcing disconnect
+2026-02-13 19:38:12,167::DEBUG::[downloader:957] Thread 6@eunews-v6.blocknews.net: Forcing disconnect
+2026-02-13 19:38:12,168::DEBUG::[downloader:957] Thread 16@eunews-v6.blocknews.net: Forcing disconnect
+2026-02-13 19:38:12,168::DEBUG::[downloader:957] Thread 26@eunews-v6.blocknews.net: Forcing disconnect
+2026-02-13 19:38:12,169::DEBUG::[downloader:957] Thread 36@eunews-v6.blocknews.net: Forcing disconnect
+2026-02-13 19:38:12,169::DEBUG::[downloader:957] Thread 7@eunews-v6.blocknews.net: Forcing disconnect
+2026-02-13 19:38:12,170::DEBUG::[downloader:957] Thread 17@eunews-v6.blocknews.net: Forcing disconnect
+2026-02-13 19:38:12,171::DEBUG::[downloader:957] Thread 27@eunews-v6.blocknews.net: Forcing disconnect
+2026-02-13 19:38:12,171::DEBUG::[downloader:957] Thread 37@eunews-v6.blocknews.net: Forcing disconnect
+2026-02-13 19:38:12,172::DEBUG::[downloader:957] Thread 8@eunews-v6.blocknews.net: Forcing disconnect
+2026-02-13 19:38:12,172::DEBUG::[downloader:957] Thread 18@eunews-v6.blocknews.net: Forcing disconnect
+2026-02-13 19:38:12,173::DEBUG::[downloader:957] Thread 28@eunews-v6.blocknews.net: Forcing disconnect
+2026-02-13 19:38:12,184::DEBUG::[downloader:957] Thread 38@eunews-v6.blocknews.net: Forcing disconnect
+2026-02-13 19:38:12,195::DEBUG::[downloader:957] Thread 9@eunews-v6.blocknews.net: Forcing disconnect
+2026-02-13 19:38:12,206::DEBUG::[downloader:957] Thread 19@eunews-v6.blocknews.net: Forcing disconnect
+2026-02-13 19:38:12,216::DEBUG::[downloader:957] Thread 29@eunews-v6.blocknews.net: Forcing disconnect
+2026-02-13 19:38:12,227::DEBUG::[downloader:957] Thread 39@eunews-v6.blocknews.net: Forcing disconnect
+2026-02-13 19:38:12,228::DEBUG::[downloader:957] Thread 10@eunews-v6.blocknews.net: Forcing disconnect
+2026-02-13 19:38:12,239::DEBUG::[downloader:957] Thread 20@eunews-v6.blocknews.net: Forcing disconnect
+2026-02-13 19:38:12,250::DEBUG::[downloader:206] Resetting article queue for <Server: id=eunews-v6.blocknews.net, host=eunews-v6.blocknews.net:563> (deque([]))
+2026-02-13 19:38:12,250::DEBUG::[downloader:957] Thread 19@eunews-v6.usenetnow.net: Forcing disconnect
+2026-02-13 19:38:12,251::DEBUG::[downloader:957] Thread 10@eunews-v6.usenetnow.net: Forcing disconnect
+2026-02-13 19:38:12,251::DEBUG::[downloader:957] Thread 29@eunews-v6.usenetnow.net: Forcing disconnect
+2026-02-13 19:38:12,252::DEBUG::[downloader:957] Thread 39@eunews-v6.usenetnow.net: Forcing disconnect
+2026-02-13 19:38:12,253::DEBUG::[downloader:957] Thread 1@eunews-v6.usenetnow.net: Forcing disconnect
+2026-02-13 19:38:12,253::DEBUG::[downloader:957] Thread 20@eunews-v6.usenetnow.net: Forcing disconnect
+2026-02-13 19:38:12,264::DEBUG::[downloader:957] Thread 11@eunews-v6.usenetnow.net: Forcing disconnect
+2026-02-13 19:38:12,265::DEBUG::[downloader:957] Thread 30@eunews-v6.usenetnow.net: Forcing disconnect
+2026-02-13 19:38:12,265::DEBUG::[downloader:957] Thread 40@eunews-v6.usenetnow.net: Forcing disconnect
+2026-02-13 19:38:12,266::DEBUG::[downloader:957] Thread 2@eunews-v6.usenetnow.net: Forcing disconnect
+2026-02-13 19:38:12,267::DEBUG::[downloader:957] Thread 21@eunews-v6.usenetnow.net: Forcing disconnect
+2026-02-13 19:38:12,267::DEBUG::[downloader:957] Thread 12@eunews-v6.usenetnow.net: Forcing disconnect
+2026-02-13 19:38:12,268::DEBUG::[downloader:957] Thread 31@eunews-v6.usenetnow.net: Forcing disconnect
+2026-02-13 19:38:12,269::DEBUG::[downloader:957] Thread 3@eunews-v6.usenetnow.net: Forcing disconnect
+2026-02-13 19:38:12,269::DEBUG::[downloader:957] Thread 22@eunews-v6.usenetnow.net: Forcing disconnect
+2026-02-13 19:38:12,280::DEBUG::[downloader:957] Thread 13@eunews-v6.usenetnow.net: Forcing disconnect
+2026-02-13 19:38:12,281::DEBUG::[downloader:957] Thread 32@eunews-v6.usenetnow.net: Forcing disconnect
+2026-02-13 19:38:12,291::DEBUG::[downloader:957] Thread 4@eunews-v6.usenetnow.net: Forcing disconnect
+2026-02-13 19:38:12,292::DEBUG::[downloader:957] Thread 23@eunews-v6.usenetnow.net: Forcing disconnect
+2026-02-13 19:38:12,293::DEBUG::[downloader:957] Thread 14@eunews-v6.usenetnow.net: Forcing disconnect
+2026-02-13 19:38:12,293::DEBUG::[downloader:957] Thread 33@eunews-v6.usenetnow.net: Forcing disconnect
+2026-02-13 19:38:12,294::DEBUG::[downloader:957] Thread 5@eunews-v6.usenetnow.net: Forcing disconnect
+2026-02-13 19:38:12,294::DEBUG::[downloader:957] Thread 24@eunews-v6.usenetnow.net: Forcing disconnect
+2026-02-13 19:38:12,305::DEBUG::[downloader:957] Thread 15@eunews-v6.usenetnow.net: Forcing disconnect
+2026-02-13 19:38:12,306::DEBUG::[downloader:957] Thread 34@eunews-v6.usenetnow.net: Forcing disconnect
+2026-02-13 19:38:12,307::DEBUG::[downloader:957] Thread 6@eunews-v6.usenetnow.net: Forcing disconnect
+2026-02-13 19:38:12,307::DEBUG::[downloader:957] Thread 25@eunews-v6.usenetnow.net: Forcing disconnect
+2026-02-13 19:38:12,308::DEBUG::[downloader:957] Thread 16@eunews-v6.usenetnow.net: Forcing disconnect
+2026-02-13 19:38:12,319::DEBUG::[downloader:957] Thread 35@eunews-v6.usenetnow.net: Forcing disconnect
+2026-02-13 19:38:12,330::DEBUG::[downloader:957] Thread 7@eunews-v6.usenetnow.net: Forcing disconnect
+2026-02-13 19:38:12,330::DEBUG::[downloader:957] Thread 26@eunews-v6.usenetnow.net: Forcing disconnect
+2026-02-13 19:38:12,331::DEBUG::[downloader:957] Thread 17@eunews-v6.usenetnow.net: Forcing disconnect
+2026-02-13 19:38:12,342::DEBUG::[downloader:957] Thread 36@eunews-v6.usenetnow.net: Forcing disconnect
+2026-02-13 19:38:12,342::DEBUG::[downloader:957] Thread 8@eunews-v6.usenetnow.net: Forcing disconnect
+2026-02-13 19:38:12,353::DEBUG::[downloader:957] Thread 27@eunews-v6.usenetnow.net: Forcing disconnect
+2026-02-13 19:38:12,354::DEBUG::[downloader:957] Thread 18@eunews-v6.usenetnow.net: Forcing disconnect
+2026-02-13 19:38:12,355::DEBUG::[downloader:957] Thread 37@eunews-v6.usenetnow.net: Forcing disconnect
+2026-02-13 19:38:12,356::DEBUG::[downloader:957] Thread 9@eunews-v6.usenetnow.net: Forcing disconnect
+2026-02-13 19:38:12,357::DEBUG::[downloader:957] Thread 28@eunews-v6.usenetnow.net: Forcing disconnect
+2026-02-13 19:38:12,357::DEBUG::[downloader:957] Thread 38@eunews-v6.usenetnow.net: Forcing disconnect
+2026-02-13 19:38:12,358::DEBUG::[downloader:206] Resetting article queue for <Server: id=eunews-v6.usenetnow.net, host=eunews-v6.usenetnow.net:563> (deque([]))
+2026-02-13 19:38:12,359::DEBUG::[downloader:957] Thread 28@news-v6.frugalusenet.com: Forcing disconnect
+2026-02-13 19:38:12,359::DEBUG::[downloader:957] Thread 38@news-v6.frugalusenet.com: Forcing disconnect
+2026-02-13 19:38:12,360::DEBUG::[downloader:957] Thread 9@news-v6.frugalusenet.com: Forcing disconnect
+2026-02-13 19:38:12,361::DEBUG::[downloader:957] Thread 19@news-v6.frugalusenet.com: Forcing disconnect
+2026-02-13 19:38:12,362::DEBUG::[downloader:957] Thread 29@news-v6.frugalusenet.com: Forcing disconnect
+2026-02-13 19:38:12,373::DEBUG::[downloader:957] Thread 39@news-v6.frugalusenet.com: Forcing disconnect
+2026-02-13 19:38:12,384::DEBUG::[downloader:957] Thread 10@news-v6.frugalusenet.com: Forcing disconnect
+2026-02-13 19:38:12,384::DEBUG::[downloader:957] Thread 20@news-v6.frugalusenet.com: Forcing disconnect
+2026-02-13 19:38:12,385::DEBUG::[downloader:957] Thread 30@news-v6.frugalusenet.com: Forcing disconnect
+2026-02-13 19:38:12,396::DEBUG::[downloader:957] Thread 40@news-v6.frugalusenet.com: Forcing disconnect
+2026-02-13 19:38:12,407::DEBUG::[downloader:957] Thread 1@news-v6.frugalusenet.com: Forcing disconnect
+2026-02-13 19:38:12,407::DEBUG::[downloader:957] Thread 11@news-v6.frugalusenet.com: Forcing disconnect
+2026-02-13 19:38:12,408::DEBUG::[downloader:957] Thread 21@news-v6.frugalusenet.com: Forcing disconnect
+2026-02-13 19:38:12,409::DEBUG::[downloader:957] Thread 31@news-v6.frugalusenet.com: Forcing disconnect
+2026-02-13 19:38:12,419::DEBUG::[downloader:957] Thread 2@news-v6.frugalusenet.com: Forcing disconnect
+2026-02-13 19:38:12,420::DEBUG::[downloader:957] Thread 12@news-v6.frugalusenet.com: Forcing disconnect
+2026-02-13 19:38:12,431::DEBUG::[downloader:957] Thread 22@news-v6.frugalusenet.com: Forcing disconnect
+2026-02-13 19:38:12,432::DEBUG::[downloader:957] Thread 32@news-v6.frugalusenet.com: Forcing disconnect
+2026-02-13 19:38:12,432::DEBUG::[downloader:957] Thread 3@news-v6.frugalusenet.com: Forcing disconnect
+2026-02-13 19:38:12,433::DEBUG::[downloader:957] Thread 13@news-v6.frugalusenet.com: Forcing disconnect
+2026-02-13 19:38:12,444::DEBUG::[downloader:957] Thread 23@news-v6.frugalusenet.com: Forcing disconnect
+2026-02-13 19:38:12,455::DEBUG::[downloader:957] Thread 33@news-v6.frugalusenet.com: Forcing disconnect
+2026-02-13 19:38:12,455::DEBUG::[downloader:957] Thread 4@news-v6.frugalusenet.com: Forcing disconnect
+2026-02-13 19:38:12,466::DEBUG::[downloader:957] Thread 14@news-v6.frugalusenet.com: Forcing disconnect
+2026-02-13 19:38:12,476::DEBUG::[downloader:957] Thread 24@news-v6.frugalusenet.com: Forcing disconnect
+2026-02-13 19:38:12,487::DEBUG::[downloader:957] Thread 34@news-v6.frugalusenet.com: Forcing disconnect
+2026-02-13 19:38:12,488::DEBUG::[downloader:957] Thread 5@news-v6.frugalusenet.com: Forcing disconnect
+2026-02-13 19:38:12,498::DEBUG::[downloader:957] Thread 15@news-v6.frugalusenet.com: Forcing disconnect
+2026-02-13 19:38:12,509::DEBUG::[downloader:957] Thread 25@news-v6.frugalusenet.com: Forcing disconnect
+2026-02-13 19:38:12,510::DEBUG::[downloader:957] Thread 35@news-v6.frugalusenet.com: Forcing disconnect
+2026-02-13 19:38:12,511::DEBUG::[downloader:957] Thread 6@news-v6.frugalusenet.com: Forcing disconnect
+2026-02-13 19:38:12,521::DEBUG::[downloader:957] Thread 16@news-v6.frugalusenet.com: Forcing disconnect
+2026-02-13 19:38:12,532::DEBUG::[downloader:957] Thread 26@news-v6.frugalusenet.com: Forcing disconnect
+2026-02-13 19:38:12,543::DEBUG::[downloader:957] Thread 36@news-v6.frugalusenet.com: Forcing disconnect
+2026-02-13 19:38:12,544::DEBUG::[downloader:957] Thread 7@news-v6.frugalusenet.com: Forcing disconnect
+2026-02-13 19:38:12,544::DEBUG::[downloader:957] Thread 17@news-v6.frugalusenet.com: Forcing disconnect
+2026-02-13 19:38:12,555::DEBUG::[downloader:957] Thread 27@news-v6.frugalusenet.com: Forcing disconnect
+2026-02-13 19:38:12,567::DEBUG::[downloader:957] Thread 37@news-v6.frugalusenet.com: Forcing disconnect
+2026-02-13 19:38:12,577::DEBUG::[downloader:957] Thread 8@news-v6.frugalusenet.com: Forcing disconnect
+2026-02-13 19:38:12,578::DEBUG::[downloader:957] Thread 18@news-v6.frugalusenet.com: Forcing disconnect
+2026-02-13 19:38:12,589::DEBUG::[downloader:206] Resetting article queue for <Server: id=news-v6.frugalusenet.com, host=news-v6.frugalusenet.com:563> (deque([]))
+2026-02-13 19:38:12,589::DEBUG::[downloader:206] Resetting article queue for <Server: id=news6.dwld.link, host=news6.dwld.link:563> (deque([]))
+2026-02-13 19:38:12,590::DEBUG::[downloader:957] Thread 6@news6.easynews.com: Forcing disconnect
+2026-02-13 19:38:12,601::DEBUG::[downloader:957] Thread 25@news6.easynews.com: Forcing disconnect
+2026-02-13 19:38:12,612::DEBUG::[downloader:957] Thread 16@news6.easynews.com: Forcing disconnect
+2026-02-13 19:38:12,623::DEBUG::[downloader:957] Thread 35@news6.easynews.com: Forcing disconnect
+2026-02-13 19:38:12,634::DEBUG::[downloader:957] Thread 7@news6.easynews.com: Forcing disconnect
+2026-02-13 19:38:12,645::DEBUG::[downloader:957] Thread 17@news6.easynews.com: Forcing disconnect
+2026-02-13 19:38:12,656::DEBUG::[downloader:957] Thread 36@news6.easynews.com: Forcing disconnect
+2026-02-13 19:38:12,667::DEBUG::[downloader:957] Thread 8@news6.easynews.com: Forcing disconnect
+2026-02-13 19:38:12,678::DEBUG::[downloader:957] Thread 27@news6.easynews.com: Forcing disconnect
+2026-02-13 19:38:12,689::DEBUG::[downloader:957] Thread 18@news6.easynews.com: Forcing disconnect
+2026-02-13 19:38:12,700::DEBUG::[downloader:957] Thread 19@news6.easynews.com: Forcing disconnect
+2026-02-13 19:38:12,711::DEBUG::[downloader:957] Thread 10@news6.easynews.com: Forcing disconnect
+2026-02-13 19:38:12,722::DEBUG::[downloader:957] Thread 29@news6.easynews.com: Forcing disconnect
+2026-02-13 19:38:12,734::DEBUG::[downloader:957] Thread 20@news6.easynews.com: Forcing disconnect
+2026-02-13 19:38:12,744::DEBUG::[downloader:957] Thread 39@news6.easynews.com: Forcing disconnect
+2026-02-13 19:38:12,755::DEBUG::[downloader:957] Thread 1@news6.easynews.com: Forcing disconnect
+2026-02-13 19:38:12,767::DEBUG::[downloader:957] Thread 11@news6.easynews.com: Forcing disconnect
+2026-02-13 19:38:12,777::DEBUG::[downloader:957] Thread 30@news6.easynews.com: Forcing disconnect
+2026-02-13 19:38:12,789::DEBUG::[downloader:957] Thread 21@news6.easynews.com: Forcing disconnect
+2026-02-13 19:38:12,800::DEBUG::[downloader:957] Thread 40@news6.easynews.com: Forcing disconnect
+2026-02-13 19:38:12,811::DEBUG::[downloader:957] Thread 2@news6.easynews.com: Forcing disconnect
+2026-02-13 19:38:12,821::DEBUG::[downloader:957] Thread 31@news6.easynews.com: Forcing disconnect
+2026-02-13 19:38:12,832::DEBUG::[downloader:957] Thread 22@news6.easynews.com: Forcing disconnect
+2026-02-13 19:38:12,842::DEBUG::[downloader:957] Thread 3@news6.easynews.com: Forcing disconnect
+2026-02-13 19:38:12,852::DEBUG::[downloader:957] Thread 13@news6.easynews.com: Forcing disconnect
+2026-02-13 19:38:12,863::DEBUG::[downloader:957] Thread 32@news6.easynews.com: Forcing disconnect
+2026-02-13 19:38:12,873::DEBUG::[downloader:957] Thread 23@news6.easynews.com: Forcing disconnect
+2026-02-13 19:38:12,884::DEBUG::[downloader:957] Thread 4@news6.easynews.com: Forcing disconnect
+2026-02-13 19:38:12,894::DEBUG::[downloader:957] Thread 33@news6.easynews.com: Forcing disconnect
+2026-02-13 19:38:12,904::DEBUG::[downloader:206] Resetting article queue for <Server: id=news6.easynews.com, host=news6.easynews.com:563> (deque([]))
+2026-02-13 19:38:12,905::DEBUG::[downloader:957] Thread 28@news6.eweka.nl: Forcing disconnect
+2026-02-13 19:38:12,915::DEBUG::[downloader:957] Thread 38@news6.eweka.nl: Forcing disconnect
+2026-02-13 19:38:12,925::DEBUG::[downloader:957] Thread 29@news6.eweka.nl: Forcing disconnect
+2026-02-13 19:38:12,936::DEBUG::[downloader:957] Thread 1@news6.eweka.nl: Forcing disconnect
+2026-02-13 19:38:12,946::DEBUG::[downloader:957] Thread 20@news6.eweka.nl: Forcing disconnect
+2026-02-13 19:38:12,957::DEBUG::[downloader:957] Thread 30@news6.eweka.nl: Forcing disconnect
+2026-02-13 19:38:12,967::DEBUG::[downloader:957] Thread 12@news6.eweka.nl: Forcing disconnect
+2026-02-13 19:38:12,978::DEBUG::[downloader:957] Thread 40@news6.eweka.nl: Forcing disconnect
+2026-02-13 19:38:12,988::DEBUG::[downloader:957] Thread 31@news6.eweka.nl: Forcing disconnect
+2026-02-13 19:38:12,998::DEBUG::[downloader:957] Thread 4@news6.eweka.nl: Forcing disconnect
+2026-02-13 19:38:13,009::DEBUG::[downloader:957] Thread 13@news6.eweka.nl: Forcing disconnect
+2026-02-13 19:38:13,019::DEBUG::[downloader:957] Thread 22@news6.eweka.nl: Forcing disconnect
+2026-02-13 19:38:13,030::DEBUG::[downloader:957] Thread 32@news6.eweka.nl: Forcing disconnect
+2026-02-13 19:38:13,040::DEBUG::[downloader:957] Thread 5@news6.eweka.nl: Forcing disconnect
+2026-02-13 19:38:13,051::DEBUG::[downloader:957] Thread 23@news6.eweka.nl: Forcing disconnect
+2026-02-13 19:38:13,061::DEBUG::[downloader:206] Resetting article queue for <Server: id=news6.eweka.nl, host=news6.eweka.nl:563> (deque([]))
+2026-02-13 19:38:13,061::DEBUG::[downloader:957] Thread 12@news6.newshosting.com: Forcing disconnect
+2026-02-13 19:38:13,072::DEBUG::[downloader:957] Thread 3@news6.newshosting.com: Forcing disconnect
+2026-02-13 19:38:13,082::DEBUG::[downloader:957] Thread 23@news6.newshosting.com: Forcing disconnect
+2026-02-13 19:38:13,093::DEBUG::[downloader:957] Thread 5@news6.newshosting.com: Forcing disconnect
+2026-02-13 19:38:13,103::DEBUG::[downloader:957] Thread 6@news6.newshosting.com: Forcing disconnect
+2026-02-13 19:38:13,113::DEBUG::[downloader:957] Thread 16@news6.newshosting.com: Forcing disconnect
+2026-02-13 19:38:13,124::DEBUG::[downloader:957] Thread 35@news6.newshosting.com: Forcing disconnect
+2026-02-13 19:38:13,134::DEBUG::[downloader:957] Thread 7@news6.newshosting.com: Forcing disconnect
+2026-02-13 19:38:13,145::DEBUG::[downloader:957] Thread 26@news6.newshosting.com: Forcing disconnect
+2026-02-13 19:38:13,155::DEBUG::[downloader:957] Thread 17@news6.newshosting.com: Forcing disconnect
+2026-02-13 19:38:13,166::DEBUG::[downloader:957] Thread 36@news6.newshosting.com: Forcing disconnect
+2026-02-13 19:38:13,176::DEBUG::[downloader:957] Thread 8@news6.newshosting.com: Forcing disconnect
+2026-02-13 19:38:13,186::DEBUG::[downloader:957] Thread 18@news6.newshosting.com: Forcing disconnect
+2026-02-13 19:38:13,197::DEBUG::[downloader:957] Thread 37@news6.newshosting.com: Forcing disconnect
+2026-02-13 19:38:13,207::DEBUG::[downloader:957] Thread 28@news6.newshosting.com: Forcing disconnect
+2026-02-13 19:38:13,218::DEBUG::[downloader:957] Thread 19@news6.newshosting.com: Forcing disconnect
+2026-02-13 19:38:13,228::DEBUG::[downloader:957] Thread 38@news6.newshosting.com: Forcing disconnect
+2026-02-13 19:38:13,238::DEBUG::[downloader:957] Thread 10@news6.newshosting.com: Forcing disconnect
+2026-02-13 19:38:13,249::DEBUG::[downloader:957] Thread 29@news6.newshosting.com: Forcing disconnect
+2026-02-13 19:38:13,259::DEBUG::[downloader:957] Thread 20@news6.newshosting.com: Forcing disconnect
+2026-02-13 19:38:13,270::DEBUG::[downloader:957] Thread 39@news6.newshosting.com: Forcing disconnect
+2026-02-13 19:38:13,280::DEBUG::[downloader:957] Thread 1@news6.newshosting.com: Forcing disconnect
+2026-02-13 19:38:13,290::DEBUG::[downloader:957] Thread 11@news6.newshosting.com: Forcing disconnect
+2026-02-13 19:38:13,301::DEBUG::[downloader:957] Thread 30@news6.newshosting.com: Forcing disconnect
+2026-02-13 19:38:13,311::DEBUG::[downloader:957] Thread 40@news6.newshosting.com: Forcing disconnect
+2026-02-13 19:38:13,321::DEBUG::[downloader:206] Resetting article queue for <Server: id=news6.newshosting.com, host=news6.newshosting.com:563> (deque([]))
+2026-02-13 19:38:13,322::DEBUG::[downloader:957] Thread 32@news6.pureusenet.nl: Forcing disconnect
+2026-02-13 19:38:13,332::DEBUG::[downloader:957] Thread 3@news6.pureusenet.nl: Forcing disconnect
+2026-02-13 19:38:13,342::DEBUG::[downloader:957] Thread 13@news6.pureusenet.nl: Forcing disconnect
+2026-02-13 19:38:13,353::DEBUG::[downloader:957] Thread 23@news6.pureusenet.nl: Forcing disconnect
+2026-02-13 19:38:13,363::DEBUG::[downloader:957] Thread 33@news6.pureusenet.nl: Forcing disconnect
+2026-02-13 19:38:13,374::DEBUG::[downloader:957] Thread 4@news6.pureusenet.nl: Forcing disconnect
+2026-02-13 19:38:13,384::DEBUG::[downloader:957] Thread 14@news6.pureusenet.nl: Forcing disconnect
+2026-02-13 19:38:13,394::DEBUG::[downloader:957] Thread 24@news6.pureusenet.nl: Forcing disconnect
+2026-02-13 19:38:13,405::DEBUG::[downloader:957] Thread 34@news6.pureusenet.nl: Forcing disconnect
+2026-02-13 19:38:13,415::DEBUG::[downloader:957] Thread 5@news6.pureusenet.nl: Forcing disconnect
+2026-02-13 19:38:13,426::DEBUG::[downloader:957] Thread 25@news6.pureusenet.nl: Forcing disconnect
+2026-02-13 19:38:13,436::DEBUG::[downloader:957] Thread 6@news6.pureusenet.nl: Forcing disconnect
+2026-02-13 19:38:13,447::DEBUG::[downloader:957] Thread 16@news6.pureusenet.nl: Forcing disconnect
+2026-02-13 19:38:13,457::DEBUG::[downloader:957] Thread 36@news6.pureusenet.nl: Forcing disconnect
+2026-02-13 19:38:13,467::DEBUG::[downloader:957] Thread 7@news6.pureusenet.nl: Forcing disconnect
+2026-02-13 19:38:13,478::DEBUG::[downloader:957] Thread 17@news6.pureusenet.nl: Forcing disconnect
+2026-02-13 19:38:13,488::DEBUG::[downloader:957] Thread 27@news6.pureusenet.nl: Forcing disconnect
+2026-02-13 19:38:13,499::DEBUG::[downloader:957] Thread 37@news6.pureusenet.nl: Forcing disconnect
+2026-02-13 19:38:13,509::DEBUG::[downloader:957] Thread 8@news6.pureusenet.nl: Forcing disconnect
+2026-02-13 19:38:13,520::DEBUG::[downloader:957] Thread 18@news6.pureusenet.nl: Forcing disconnect
+2026-02-13 19:38:13,530::DEBUG::[downloader:957] Thread 28@news6.pureusenet.nl: Forcing disconnect
+2026-02-13 19:38:13,543::DEBUG::[downloader:957] Thread 38@news6.pureusenet.nl: Forcing disconnect
+2026-02-13 19:38:13,553::DEBUG::[downloader:957] Thread 9@news6.pureusenet.nl: Forcing disconnect
+2026-02-13 19:38:13,564::DEBUG::[downloader:957] Thread 19@news6.pureusenet.nl: Forcing disconnect
+2026-02-13 19:38:13,574::DEBUG::[downloader:957] Thread 29@news6.pureusenet.nl: Forcing disconnect
+2026-02-13 19:38:13,585::DEBUG::[downloader:957] Thread 39@news6.pureusenet.nl: Forcing disconnect
+2026-02-13 19:38:13,596::DEBUG::[downloader:957] Thread 10@news6.pureusenet.nl: Forcing disconnect
+2026-02-13 19:38:13,607::DEBUG::[downloader:957] Thread 20@news6.pureusenet.nl: Forcing disconnect
+2026-02-13 19:38:13,618::DEBUG::[downloader:957] Thread 30@news6.pureusenet.nl: Forcing disconnect
+2026-02-13 19:38:13,629::DEBUG::[downloader:957] Thread 40@news6.pureusenet.nl: Forcing disconnect
+2026-02-13 19:38:13,640::DEBUG::[downloader:957] Thread 1@news6.pureusenet.nl: Forcing disconnect
+2026-02-13 19:38:13,651::DEBUG::[downloader:957] Thread 11@news6.pureusenet.nl: Forcing disconnect
+2026-02-13 19:38:13,661::DEBUG::[downloader:957] Thread 21@news6.pureusenet.nl: Forcing disconnect
+2026-02-13 19:38:13,672::DEBUG::[downloader:957] Thread 31@news6.pureusenet.nl: Forcing disconnect
+2026-02-13 19:38:13,682::DEBUG::[downloader:957] Thread 2@news6.pureusenet.nl: Forcing disconnect
+2026-02-13 19:38:13,693::DEBUG::[downloader:957] Thread 12@news6.pureusenet.nl: Forcing disconnect
+2026-02-13 19:38:13,703::DEBUG::[downloader:957] Thread 22@news6.pureusenet.nl: Forcing disconnect
+2026-02-13 19:38:13,713::DEBUG::[downloader:206] Resetting article queue for <Server: id=news6.pureusenet.nl, host=news6.pureusenet.nl:563> (deque([]))
+2026-02-13 19:38:13,714::DEBUG::[downloader:957] Thread 32@news6.sunnyusenet.com: Forcing disconnect
+2026-02-13 19:38:13,724::DEBUG::[downloader:957] Thread 13@news6.sunnyusenet.com: Forcing disconnect
+2026-02-13 19:38:13,735::DEBUG::[downloader:957] Thread 14@news6.sunnyusenet.com: Forcing disconnect
+2026-02-13 19:38:13,745::DEBUG::[downloader:957] Thread 24@news6.sunnyusenet.com: Forcing disconnect
+2026-02-13 19:38:13,756::DEBUG::[downloader:957] Thread 15@news6.sunnyusenet.com: Forcing disconnect
+2026-02-13 19:38:13,766::DEBUG::[downloader:957] Thread 25@news6.sunnyusenet.com: Forcing disconnect
+2026-02-13 19:38:13,777::DEBUG::[downloader:957] Thread 26@news6.sunnyusenet.com: Forcing disconnect
+2026-02-13 19:38:13,787::DEBUG::[downloader:957] Thread 1@news6.sunnyusenet.com: Forcing disconnect
+2026-02-13 19:38:13,798::DEBUG::[downloader:957] Thread 27@news6.sunnyusenet.com: Forcing disconnect
+2026-02-13 19:38:13,808::DEBUG::[downloader:957] Thread 8@news6.sunnyusenet.com: Forcing disconnect
+2026-02-13 19:38:13,819::DEBUG::[downloader:957] Thread 28@news6.sunnyusenet.com: Forcing disconnect
+2026-02-13 19:38:13,829::DEBUG::[downloader:957] Thread 38@news6.sunnyusenet.com: Forcing disconnect
+2026-02-13 19:38:13,840::DEBUG::[downloader:957] Thread 19@news6.sunnyusenet.com: Forcing disconnect
+2026-02-13 19:38:13,850::DEBUG::[downloader:957] Thread 29@news6.sunnyusenet.com: Forcing disconnect
+2026-02-13 19:38:13,861::DEBUG::[downloader:957] Thread 10@news6.sunnyusenet.com: Forcing disconnect
+2026-02-13 19:38:13,872::DEBUG::[downloader:957] Thread 20@news6.sunnyusenet.com: Forcing disconnect
+2026-02-13 19:38:13,882::DEBUG::[downloader:957] Thread 30@news6.sunnyusenet.com: Forcing disconnect
+2026-02-13 19:38:13,893::DEBUG::[downloader:957] Thread 11@news6.sunnyusenet.com: Forcing disconnect
+2026-02-13 19:38:13,904::DEBUG::[downloader:957] Thread 21@news6.sunnyusenet.com: Forcing disconnect
+2026-02-13 19:38:13,915::DEBUG::[downloader:957] Thread 31@news6.sunnyusenet.com: Forcing disconnect
+2026-02-13 19:38:13,925::DEBUG::[downloader:206] Resetting article queue for <Server: id=news6.sunnyusenet.com, host=news6.sunnyusenet.com:563> (deque([]))
+2026-02-13 19:38:13,926::DEBUG::[downloader:957] Thread 5@news6.tweaknews.eu: Forcing disconnect
+2026-02-13 19:38:13,937::DEBUG::[downloader:957] Thread 15@news6.tweaknews.eu: Forcing disconnect
+2026-02-13 19:38:13,948::DEBUG::[downloader:957] Thread 25@news6.tweaknews.eu: Forcing disconnect
+2026-02-13 19:38:13,959::DEBUG::[downloader:957] Thread 35@news6.tweaknews.eu: Forcing disconnect
+2026-02-13 19:38:13,970::DEBUG::[downloader:957] Thread 6@news6.tweaknews.eu: Forcing disconnect
+2026-02-13 19:38:13,981::DEBUG::[downloader:957] Thread 16@news6.tweaknews.eu: Forcing disconnect
+2026-02-13 19:38:13,992::DEBUG::[downloader:957] Thread 26@news6.tweaknews.eu: Forcing disconnect
+2026-02-13 19:38:14,003::DEBUG::[downloader:957] Thread 36@news6.tweaknews.eu: Forcing disconnect
+2026-02-13 19:38:14,014::DEBUG::[downloader:957] Thread 7@news6.tweaknews.eu: Forcing disconnect
+2026-02-13 19:38:14,025::DEBUG::[downloader:957] Thread 17@news6.tweaknews.eu: Forcing disconnect
+2026-02-13 19:38:14,036::DEBUG::[downloader:957] Thread 27@news6.tweaknews.eu: Forcing disconnect
+2026-02-13 19:38:14,047::DEBUG::[downloader:957] Thread 37@news6.tweaknews.eu: Forcing disconnect
+2026-02-13 19:38:14,058::DEBUG::[downloader:957] Thread 18@news6.tweaknews.eu: Forcing disconnect
+2026-02-13 19:38:14,069::DEBUG::[downloader:957] Thread 28@news6.tweaknews.eu: Forcing disconnect
+2026-02-13 19:38:14,079::DEBUG::[downloader:957] Thread 9@news6.tweaknews.eu: Forcing disconnect
+2026-02-13 19:38:14,090::DEBUG::[downloader:957] Thread 19@news6.tweaknews.eu: Forcing disconnect
+2026-02-13 19:38:14,101::DEBUG::[downloader:957] Thread 29@news6.tweaknews.eu: Forcing disconnect
+2026-02-13 19:38:14,112::DEBUG::[downloader:957] Thread 39@news6.tweaknews.eu: Forcing disconnect
+2026-02-13 19:38:14,123::DEBUG::[downloader:957] Thread 10@news6.tweaknews.eu: Forcing disconnect
+2026-02-13 19:38:14,134::DEBUG::[downloader:957] Thread 20@news6.tweaknews.eu: Forcing disconnect
+2026-02-13 19:38:14,145::DEBUG::[downloader:957] Thread 30@news6.tweaknews.eu: Forcing disconnect
+2026-02-13 19:38:14,156::DEBUG::[downloader:957] Thread 40@news6.tweaknews.eu: Forcing disconnect
+2026-02-13 19:38:14,168::DEBUG::[downloader:957] Thread 1@news6.tweaknews.eu: Forcing disconnect
+2026-02-13 19:38:14,179::DEBUG::[downloader:957] Thread 11@news6.tweaknews.eu: Forcing disconnect
+2026-02-13 19:38:14,190::DEBUG::[downloader:957] Thread 21@news6.tweaknews.eu: Forcing disconnect
+2026-02-13 19:38:14,201::DEBUG::[downloader:957] Thread 31@news6.tweaknews.eu: Forcing disconnect
+2026-02-13 19:38:14,212::DEBUG::[downloader:957] Thread 2@news6.tweaknews.eu: Forcing disconnect
+2026-02-13 19:38:14,223::DEBUG::[downloader:957] Thread 22@news6.tweaknews.eu: Forcing disconnect
+2026-02-13 19:38:14,234::DEBUG::[downloader:957] Thread 3@news6.tweaknews.eu: Forcing disconnect
+2026-02-13 19:38:14,245::DEBUG::[downloader:957] Thread 13@news6.tweaknews.eu: Forcing disconnect
+2026-02-13 19:38:14,256::DEBUG::[downloader:957] Thread 23@news6.tweaknews.eu: Forcing disconnect
+2026-02-13 19:38:14,266::DEBUG::[downloader:957] Thread 33@news6.tweaknews.eu: Forcing disconnect
+2026-02-13 19:38:14,277::DEBUG::[downloader:957] Thread 4@news6.tweaknews.eu: Forcing disconnect
+2026-02-13 19:38:14,287::DEBUG::[downloader:957] Thread 14@news6.tweaknews.eu: Forcing disconnect
+2026-02-13 19:38:14,298::DEBUG::[downloader:957] Thread 24@news6.tweaknews.eu: Forcing disconnect
+2026-02-13 19:38:14,309::DEBUG::[downloader:206] Resetting article queue for <Server: id=news6.tweaknews.eu, host=news6.tweaknews.eu:563> (deque([]))
+2026-02-13 19:38:14,310::DEBUG::[downloader:957] Thread 4@news6.tweaknews.nl: Forcing disconnect
+2026-02-13 19:38:14,321::DEBUG::[downloader:957] Thread 23@news6.tweaknews.nl: Forcing disconnect
+2026-02-13 19:38:14,332::DEBUG::[downloader:957] Thread 14@news6.tweaknews.nl: Forcing disconnect
+2026-02-13 19:38:14,343::DEBUG::[downloader:957] Thread 33@news6.tweaknews.nl: Forcing disconnect
+2026-02-13 19:38:14,354::DEBUG::[downloader:957] Thread 5@news6.tweaknews.nl: Forcing disconnect
+2026-02-13 19:38:14,365::DEBUG::[downloader:957] Thread 24@news6.tweaknews.nl: Forcing disconnect
+2026-02-13 19:38:14,376::DEBUG::[downloader:957] Thread 15@news6.tweaknews.nl: Forcing disconnect
+2026-02-13 19:38:14,387::DEBUG::[downloader:957] Thread 34@news6.tweaknews.nl: Forcing disconnect
+2026-02-13 19:38:14,398::DEBUG::[downloader:957] Thread 6@news6.tweaknews.nl: Forcing disconnect
+2026-02-13 19:38:14,409::DEBUG::[downloader:957] Thread 25@news6.tweaknews.nl: Forcing disconnect
+2026-02-13 19:38:14,420::DEBUG::[downloader:957] Thread 16@news6.tweaknews.nl: Forcing disconnect
+2026-02-13 19:38:14,431::DEBUG::[downloader:957] Thread 35@news6.tweaknews.nl: Forcing disconnect
+2026-02-13 19:38:14,442::DEBUG::[downloader:957] Thread 17@news6.tweaknews.nl: Forcing disconnect
+2026-02-13 19:38:14,453::DEBUG::[downloader:957] Thread 8@news6.tweaknews.nl: Forcing disconnect
+2026-02-13 19:38:14,465::DEBUG::[downloader:957] Thread 9@news6.tweaknews.nl: Forcing disconnect
+2026-02-13 19:38:14,476::DEBUG::[downloader:957] Thread 28@news6.tweaknews.nl: Forcing disconnect
+2026-02-13 19:38:14,486::DEBUG::[downloader:957] Thread 19@news6.tweaknews.nl: Forcing disconnect
+2026-02-13 19:38:14,497::DEBUG::[downloader:957] Thread 38@news6.tweaknews.nl: Forcing disconnect
+2026-02-13 19:38:14,508::DEBUG::[downloader:957] Thread 10@news6.tweaknews.nl: Forcing disconnect
+2026-02-13 19:38:14,519::DEBUG::[downloader:957] Thread 29@news6.tweaknews.nl: Forcing disconnect
+2026-02-13 19:38:14,530::DEBUG::[downloader:957] Thread 20@news6.tweaknews.nl: Forcing disconnect
+2026-02-13 19:38:14,541::DEBUG::[downloader:957] Thread 39@news6.tweaknews.nl: Forcing disconnect
+2026-02-13 19:38:14,552::DEBUG::[downloader:957] Thread 1@news6.tweaknews.nl: Forcing disconnect
+2026-02-13 19:38:14,563::DEBUG::[downloader:957] Thread 11@news6.tweaknews.nl: Forcing disconnect
+2026-02-13 19:38:14,574::DEBUG::[downloader:957] Thread 30@news6.tweaknews.nl: Forcing disconnect
+2026-02-13 19:38:14,585::DEBUG::[downloader:957] Thread 21@news6.tweaknews.nl: Forcing disconnect
+2026-02-13 19:38:14,596::DEBUG::[downloader:957] Thread 40@news6.tweaknews.nl: Forcing disconnect
+2026-02-13 19:38:14,607::DEBUG::[downloader:957] Thread 2@news6.tweaknews.nl: Forcing disconnect
+2026-02-13 19:38:14,618::DEBUG::[downloader:957] Thread 12@news6.tweaknews.nl: Forcing disconnect
+2026-02-13 19:38:14,629::DEBUG::[downloader:957] Thread 31@news6.tweaknews.nl: Forcing disconnect
+2026-02-13 19:38:14,640::DEBUG::[downloader:957] Thread 22@news6.tweaknews.nl: Forcing disconnect
+2026-02-13 19:38:14,651::DEBUG::[downloader:957] Thread 3@news6.tweaknews.nl: Forcing disconnect
+2026-02-13 19:38:14,663::DEBUG::[downloader:957] Thread 13@news6.tweaknews.nl: Forcing disconnect
+2026-02-13 19:38:14,674::DEBUG::[downloader:957] Thread 32@news6.tweaknews.nl: Forcing disconnect
+2026-02-13 19:38:14,685::DEBUG::[downloader:206] Resetting article queue for <Server: id=news6.tweaknews.nl, host=news6.tweaknews.nl:563> (deque([]))
+2026-02-13 19:38:14,685::DEBUG::[downloader:957] Thread 10@news6.usenet.farm: Forcing disconnect
+2026-02-13 19:38:14,686::DEBUG::[downloader:957] Thread 29@news6.usenet.farm: Forcing disconnect
+2026-02-13 19:38:14,686::DEBUG::[downloader:957] Thread 20@news6.usenet.farm: Forcing disconnect
+2026-02-13 19:38:14,687::DEBUG::[downloader:957] Thread 39@news6.usenet.farm: Forcing disconnect
+2026-02-13 19:38:14,688::DEBUG::[downloader:957] Thread 1@news6.usenet.farm: Forcing disconnect
+2026-02-13 19:38:14,688::DEBUG::[downloader:957] Thread 11@news6.usenet.farm: Forcing disconnect
+2026-02-13 19:38:14,688::DEBUG::[downloader:957] Thread 30@news6.usenet.farm: Forcing disconnect
+2026-02-13 19:38:14,689::DEBUG::[downloader:957] Thread 21@news6.usenet.farm: Forcing disconnect
+2026-02-13 19:38:14,689::DEBUG::[downloader:957] Thread 40@news6.usenet.farm: Forcing disconnect
+2026-02-13 19:38:14,690::DEBUG::[downloader:957] Thread 2@news6.usenet.farm: Forcing disconnect
+2026-02-13 19:38:14,690::DEBUG::[downloader:957] Thread 12@news6.usenet.farm: Forcing disconnect
+2026-02-13 19:38:14,690::DEBUG::[downloader:957] Thread 31@news6.usenet.farm: Forcing disconnect
+2026-02-13 19:38:14,691::DEBUG::[downloader:957] Thread 22@news6.usenet.farm: Forcing disconnect
+2026-02-13 19:38:14,691::DEBUG::[downloader:957] Thread 3@news6.usenet.farm: Forcing disconnect
+2026-02-13 19:38:14,692::DEBUG::[downloader:957] Thread 13@news6.usenet.farm: Forcing disconnect
+2026-02-13 19:38:14,692::DEBUG::[downloader:957] Thread 32@news6.usenet.farm: Forcing disconnect
+2026-02-13 19:38:14,693::DEBUG::[downloader:957] Thread 23@news6.usenet.farm: Forcing disconnect
+2026-02-13 19:38:14,703::DEBUG::[downloader:957] Thread 4@news6.usenet.farm: Forcing disconnect
+2026-02-13 19:38:14,703::DEBUG::[downloader:957] Thread 14@news6.usenet.farm: Forcing disconnect
+2026-02-13 19:38:14,704::DEBUG::[downloader:957] Thread 33@news6.usenet.farm: Forcing disconnect
+2026-02-13 19:38:14,704::DEBUG::[downloader:957] Thread 24@news6.usenet.farm: Forcing disconnect
+2026-02-13 19:38:14,704::DEBUG::[downloader:957] Thread 5@news6.usenet.farm: Forcing disconnect
+2026-02-13 19:38:14,714::DEBUG::[downloader:957] Thread 15@news6.usenet.farm: Forcing disconnect
+2026-02-13 19:38:14,725::DEBUG::[downloader:957] Thread 34@news6.usenet.farm: Forcing disconnect
+2026-02-13 19:38:14,725::DEBUG::[downloader:957] Thread 25@news6.usenet.farm: Forcing disconnect
+2026-02-13 19:38:14,735::DEBUG::[downloader:957] Thread 6@news6.usenet.farm: Forcing disconnect
+2026-02-13 19:38:14,736::DEBUG::[downloader:957] Thread 16@news6.usenet.farm: Forcing disconnect
+2026-02-13 19:38:14,746::DEBUG::[downloader:957] Thread 35@news6.usenet.farm: Forcing disconnect
+2026-02-13 19:38:14,746::DEBUG::[downloader:957] Thread 26@news6.usenet.farm: Forcing disconnect
+2026-02-13 19:38:14,756::DEBUG::[downloader:957] Thread 7@news6.usenet.farm: Forcing disconnect
+2026-02-13 19:38:14,757::DEBUG::[downloader:957] Thread 17@news6.usenet.farm: Forcing disconnect
+2026-02-13 19:38:14,759::DEBUG::[__init__:384] Stopping assembler
+2026-02-13 19:38:14,759::DEBUG::[assembler:262] Shutting down assembler
+2026-02-13 19:38:14,759::DEBUG::[__init__:391] Stopping article cache
+2026-02-13 19:38:14,759::DEBUG::[__init__:398] Stopping postprocessor
+2026-02-13 19:38:14,760::DEBUG::[articlecache:202] Saving 0 cached articles to disk
+2026-02-13 19:38:14,760::INFO::[nzbqueue:230] Saving queue
+2026-02-13 19:38:14,760::DEBUG::[object:1488] Saving attributes {'cat': '*', 'pp': 3, 'script': 'None', 'priority': 2, 'final_name': 'test_download_100MB', 'password': None, 'url': 'https://sabnzbd.org/tests/test_download_100MB.nzb'} for test_download_100MB
+2026-02-13 19:38:14,760::DEBUG::[filesystem:1061] [sabnzbd.nzb.object.save_to_disk] Saving data for SABnzbd_nzo_72s2r0tt in /home/sander/git/ipv6-tests-newshosting-eweka/Downloads/incomplete/test_download_100MB/__ADMIN__
+2026-02-13 19:38:14,762::DEBUG::[filesystem:1139] [sabnzbd.nzbqueue.save] Saving data for queue10.sab
+2026-02-13 19:38:14,762::DEBUG::[filesystem:1061] [sabnzbd.filesystem.save_admin] Saving data for queue10.sab in /home/sander/git/ipv6-tests-newshosting-eweka/admin
+2026-02-13 19:38:14,762::DEBUG::[filesystem:1139] [sabnzbd.bpsmeter.save] Saving data for totals10.sab
+2026-02-13 19:38:14,762::DEBUG::[filesystem:1061] [sabnzbd.filesystem.save_admin] Saving data for totals10.sab in /home/sander/git/ipv6-tests-newshosting-eweka/admin
+2026-02-13 19:38:14,763::DEBUG::[filesystem:1139] [sabnzbd.dirscanner.save] Saving data for watched_data2.sab
+2026-02-13 19:38:14,763::DEBUG::[filesystem:1061] [sabnzbd.filesystem.save_admin] Saving data for watched_data2.sab in /home/sander/git/ipv6-tests-newshosting-eweka/admin
+2026-02-13 19:38:14,763::INFO::[postproc:139] Saving postproc queue
+2026-02-13 19:38:14,763::DEBUG::[filesystem:1139] [sabnzbd.postproc.save] Saving data for postproc2.sab
+2026-02-13 19:38:14,763::DEBUG::[filesystem:1061] [sabnzbd.filesystem.save_admin] Saving data for postproc2.sab in /home/sander/git/ipv6-tests-newshosting-eweka/admin
+2026-02-13 19:38:14,763::DEBUG::[filesystem:1139] [sabnzbd.rss.save] Saving data for rss_data.sab
+2026-02-13 19:38:14,764::DEBUG::[filesystem:1061] [sabnzbd.filesystem.save_admin] Saving data for rss_data.sab in /home/sander/git/ipv6-tests-newshosting-eweka/admin
+2026-02-13 19:38:14,764::DEBUG::[__init__:415] Terminating scheduler
+2026-02-13 19:38:14,764::INFO::[__init__:418] All processes stopped
+2026-02-13 19:38:14,764::INFO::[_cplogging:213] [13/Feb/2026:19:38:14] ENGINE Bus STOPPING
+2026-02-13 19:38:14,767::DEBUG::[downloader:957] Thread 36@news6.usenet.farm: Forcing disconnect
+2026-02-13 19:38:14,767::DEBUG::[downloader:957] Thread 27@news6.usenet.farm: Forcing disconnect
+2026-02-13 19:38:14,768::DEBUG::[downloader:957] Thread 8@news6.usenet.farm: Forcing disconnect
+2026-02-13 19:38:14,768::DEBUG::[downloader:957] Thread 18@news6.usenet.farm: Forcing disconnect
+2026-02-13 19:38:14,768::DEBUG::[downloader:957] Thread 37@news6.usenet.farm: Forcing disconnect
+2026-02-13 19:38:14,768::DEBUG::[downloader:957] Thread 28@news6.usenet.farm: Forcing disconnect
+2026-02-13 19:38:14,768::DEBUG::[downloader:957] Thread 9@news6.usenet.farm: Forcing disconnect
+2026-02-13 19:38:14,779::DEBUG::[downloader:957] Thread 19@news6.usenet.farm: Forcing disconnect
+2026-02-13 19:38:14,789::DEBUG::[downloader:957] Thread 38@news6.usenet.farm: Forcing disconnect
+2026-02-13 19:38:14,789::DEBUG::[downloader:206] Resetting article queue for <Server: id=news6.usenet.farm, host=news6.usenet.farm:563> (deque([]))
+2026-02-13 19:38:14,789::DEBUG::[downloader:957] Thread 2@news6.usenetserver.com: Forcing disconnect
+2026-02-13 19:38:14,800::DEBUG::[downloader:957] Thread 21@news6.usenetserver.com: Forcing disconnect
+2026-02-13 19:38:14,810::DEBUG::[downloader:957] Thread 12@news6.usenetserver.com: Forcing disconnect
+2026-02-13 19:38:14,821::DEBUG::[downloader:957] Thread 31@news6.usenetserver.com: Forcing disconnect
+2026-02-13 19:38:14,831::DEBUG::[downloader:957] Thread 3@news6.usenetserver.com: Forcing disconnect
+2026-02-13 19:38:14,841::DEBUG::[downloader:957] Thread 22@news6.usenetserver.com: Forcing disconnect
+2026-02-13 19:38:14,852::DEBUG::[downloader:957] Thread 13@news6.usenetserver.com: Forcing disconnect
+2026-02-13 19:38:14,862::DEBUG::[downloader:957] Thread 32@news6.usenetserver.com: Forcing disconnect
+2026-02-13 19:38:14,873::DEBUG::[downloader:957] Thread 4@news6.usenetserver.com: Forcing disconnect
+2026-02-13 19:38:14,883::DEBUG::[downloader:957] Thread 23@news6.usenetserver.com: Forcing disconnect
+2026-02-13 19:38:14,894::DEBUG::[downloader:957] Thread 14@news6.usenetserver.com: Forcing disconnect
+2026-02-13 19:38:14,905::DEBUG::[downloader:957] Thread 33@news6.usenetserver.com: Forcing disconnect
+2026-02-13 19:38:14,915::DEBUG::[downloader:957] Thread 5@news6.usenetserver.com: Forcing disconnect
+2026-02-13 19:38:14,926::DEBUG::[downloader:957] Thread 24@news6.usenetserver.com: Forcing disconnect
+2026-02-13 19:38:14,937::DEBUG::[downloader:957] Thread 15@news6.usenetserver.com: Forcing disconnect
+2026-02-13 19:38:14,948::DEBUG::[downloader:957] Thread 34@news6.usenetserver.com: Forcing disconnect
+2026-02-13 19:38:14,959::DEBUG::[downloader:957] Thread 6@news6.usenetserver.com: Forcing disconnect
+2026-02-13 19:38:14,960::INFO::[_cplogging:213] [13/Feb/2026:19:38:14] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('127.0.0.1', 8080)) shut down
+2026-02-13 19:38:14,961::INFO::[_cplogging:213] [13/Feb/2026:19:38:14] ENGINE Bus STOPPED
+2026-02-13 19:38:14,961::INFO::[_cplogging:213] [13/Feb/2026:19:38:14] ENGINE Bus EXITING
+2026-02-13 19:38:14,961::INFO::[_cplogging:213] [13/Feb/2026:19:38:14] ENGINE Bus EXITED
+2026-02-13 19:38:14,962::INFO::[notifier:165] Sending notification: SABnzbd - SABnzbd shutdown finished (type=startup, job_cat=None)
+2026-02-13 19:38:14,962::INFO::[sabnzbdplus:1478] Leaving SABnzbd

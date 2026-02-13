@@ -92,6 +92,9 @@ for line in result.splitlines():
 #print("\nResults:")
 bad = ""
 
+if len(ipv6found) == 0:
+    print("No IPv6 addresses / connections found in the log file. Do you have IPv6 connectivity at all?\n")
+
 
 print("\nThe Good ... :")
 for server, ipv6 in ipv6found.items():
