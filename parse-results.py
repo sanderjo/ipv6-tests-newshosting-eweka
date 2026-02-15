@@ -47,7 +47,8 @@ for line in result.splitlines():
         # get datetime from line, which is the first 19 characters. datetime = line[:19] print(f"Datetime of latest run: {datetime}")   
     if "Fastest connection to" in line:
         # 2026-02-12 07:34:08,461::INFO::[get_addrinfo:198] Fastest connection to news6.eweka.nl (port=563, IPv4 or IPv6): 2001:4de0:1::205 (news6.eweka.nl) in 11ms (out of 3 results)
-
+        # NOTE: we should ignore "104.26.3.117 (sabnzbd.org)" (version check)
+        # ... maybe check on being ipv6 address for all?
         #print(line)
         # split line on spaces, and get the 8th element (index 7), which is the server name in parentheses.
         parts = line.split()
