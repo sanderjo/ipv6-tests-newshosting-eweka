@@ -1,3 +1,7 @@
+# SOLVED
+
+My ISP changed its peering with Eweka, and now it's solved; no more errors in SABnzbd with Eweka / Newshosting.
+
 # The problem
 
 SABnzbd gives "Failed to connect: [Errno 113] No route to host" errors to ipv6 servers of eweka and newshosting. 
